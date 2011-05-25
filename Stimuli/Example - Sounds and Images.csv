@@ -1,0 +1,19 @@
+one_sent_two_picts,sound,Image folder: Example images,Sound folder: Example sounds
+
+"Here is an example of a test that uses sounds and pictures. Sounds and Pictures must be found in the /Sounds/Example sounds/ and /Images/Example images/ folders. If the experimenter had wanted to, she could have not put them in subfolders, and ommited the options above. Please excuse the lack of relationship between the words spoken here and those pictured.",,,
+
+<examples>,,(extra spaces have been added to make the formatting clear. They are not necessary.),
+
+arm.wav,Activating.jpg,Activist.jpg,
+That's correct! Try another,,,
+That's wrong! Try another,,,
+
+armada.wav,Childish.jpg,Childless.jpg,
+That's correct! Now do the real test,,,
+That's wrong! Now do the real test,,,
+
+</examples>,,,
+
+Item #,,,
+1,bank.wav,Activating.jpg,Activist.jpg
+2,bed.wav,Childish.jpg,Childless.jpg

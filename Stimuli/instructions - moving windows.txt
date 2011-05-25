@@ -1,0 +1,13 @@
+<no moving window>
+<font size=6>
+In the next test you will be reading sentences a few words at a time. You will begin by seeing the first few words of the sentence. When you have read the words, press the <b>down arrow</b> and the next few words will appear. You will keep pressing the down arrow until you have reached the end of the sentence.
+<p>
+Let's try an example:
+<p>
+<p>
+</font><font face="Lucida Sans Typewriter">
+</no moving window>
+Press the down arrow / to see the / rest of the words / in this sentence. / Good job!
+<no moving window>
+</font>
+</no moving window>

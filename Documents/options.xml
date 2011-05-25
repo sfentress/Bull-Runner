@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- Options created 1/31/2007,0:7 -->
+<options>
+  <anyKeyAhead>true</anyKeyAhead>
+  <keyAhead>10,1</keyAhead>
+  <leftKey>37,1</leftKey>
+  <rightKey>39,1</rightKey>
+  <fontSize>36</fontSize>
+  <fontColor>java.awt.Color[r=0,g=0,b=0]</fontColor>
+  <backColor>java.awt.Color[r=255,g=255,b=255]</backColor>
+</options>

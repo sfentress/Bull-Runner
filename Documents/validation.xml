@@ -1,0 +1,34 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- Validation file for Assessment Of Comprehension program, v. 0.05.3 or later -->
+<test>
+  <subtest>
+    <name>Example - Basic.csv</name>
+    <last_updated>1166541491000</last_updated>
+    <valid>true</valid>
+  </subtest>
+  <subtest>
+    <name>Example - Discourse.csv</name>
+    <last_updated>1166543219000</last_updated>
+    <valid>true</valid>
+  </subtest>
+  <subtest>
+    <name>Example - Moving windows.csv</name>
+    <last_updated>1166545099000</last_updated>
+    <valid>true</valid>
+  </subtest>
+  <subtest>
+    <name>Example - Sentence Ranking.csv</name>
+    <last_updated>1166543622000</last_updated>
+    <valid>true</valid>
+  </subtest>
+  <subtest>
+    <name>Example - Sounds and Images.csv</name>
+    <last_updated>1170221125969</last_updated>
+    <valid>true</valid>
+  </subtest>
+  <subtest>
+    <name>Example - Three-choice.csv</name>
+    <last_updated>1166543972000</last_updated>
+    <valid>true</valid>
+  </subtest>
+</test>
